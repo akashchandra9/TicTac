@@ -1,2 +1,3 @@
 # TicTac
 simple game
+tictac
