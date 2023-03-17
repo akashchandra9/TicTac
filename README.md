@@ -1,2 +1,2 @@
 # TicTac
-Hello,this is a basic tictac game.\
+Hello,this is a basic tictac game.
