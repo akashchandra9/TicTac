@@ -1,3 +1,2 @@
 # TicTac
-simple game
-tictac
+Hello,this is a basic tictac game.\
